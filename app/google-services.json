@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845511127463",
+    "firebase_url": "https://aptitude-application-cd793.firebaseio.com",
+    "project_id": "aptitude-application-cd793",
+    "storage_bucket": "aptitude-application-cd793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845511127463:android:d210e126d8a1a374d5c682",
+        "android_client_info": {
+          "package_name": "com.example.aptitude_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845511127463-9mvk3dl9ujup6rpa58ak791f38gon3v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7SKCC2lMpr4_B-SWCouDWQg0SQCO3Yzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845511127463-9mvk3dl9ujup6rpa58ak791f38gon3v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
